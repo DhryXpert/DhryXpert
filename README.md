@@ -15,6 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DhryXpert/DhryXpert/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dhairyakhaf) 
 
